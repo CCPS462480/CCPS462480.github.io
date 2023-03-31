@@ -1,31 +1,28 @@
 p {
   font size: 16pt;
-  font-family: Georgia, serif;
+  font-family: serif;
 }
 
 ul {
   font size: 30pt;
   text-align: center;
-  
-  iframe {
-    text-align: center;
-  }
 }
 
 ol {
 } 
 
 h1 {
+  text-align: center;
+  color: purple;
 }
 
 header {
 }
 
 body {
-  background color: blue; 
+  align: center;
 }
 
 footer {
-  text: center;
-  
+  text-align: center;
 }
