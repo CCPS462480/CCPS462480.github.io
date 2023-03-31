@@ -1,5 +1,6 @@
 p {
-  
+  font size: 16pt;
+  font-family: Georgia, serif;
 }
 
 ul {
@@ -19,4 +20,5 @@ body {
 }
 
 footer {
+  align: center;
 }
