@@ -6,6 +6,10 @@ p {
 ul {
   font size: 30pt;
   text-align: center;
+  
+  nav {
+    text-align: center;
+  }
 }
 
 ol {
@@ -22,6 +26,6 @@ body {
 }
 
 footer {
-  text-align: center;
+  text: center;
   
 }
