@@ -30,7 +30,7 @@ body {
 }
 
 footer {
-  text-align: center;
+  align: center;
   height: 130px;
   width: 300px;
 }
