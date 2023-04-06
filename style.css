@@ -10,6 +10,7 @@ ul {
 
 ol {
   align: center;
+  text-decoration: underline;
 } 
 
 h1 {
@@ -22,8 +23,10 @@ header {
 
 body {
   align: center;
+  background color: aliceblue;
 }
 
 footer {
   text-align: center;
+  
 }
