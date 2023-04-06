@@ -27,8 +27,8 @@ body {
   background color: aliceblue;
 }
 
-#footer {
+footer {
   text-align: center;
-  height: 100px;
-  width: 80px;
+  height: 80px;
+  width: 50px;
 }
